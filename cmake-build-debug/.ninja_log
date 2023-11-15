@@ -1,0 +1,12 @@
+# ninja log v5
+0	509	7217545356948922	CMakeFiles/SingletonPatternAufgabeCPP.dir/main.cpp.obj	77c3a7137c26dc0
+14	512	7217545356948922	CMakeFiles/SingletonPatternAufgabeCPP.dir/StandartInterestRate.cpp.obj	f2c03bdcd6aecab7
+5	507	7217549158233305	CMakeFiles/SingletonPatternAufgabeCPP.dir/main.cpp.obj	77c3a7137c26dc0
+16	512	7217549158293491	CMakeFiles/SingletonPatternAufgabeCPP.dir/StandartInterestRate.cpp.obj	f2c03bdcd6aecab7
+16	597	7217554233750907	CMakeFiles/SingletonPatternAufgabeCPP.dir/StandartInterestRate.cpp.obj	f2c03bdcd6aecab7
+6	602	7217554233811372	CMakeFiles/SingletonPatternAufgabeCPP.dir/main.cpp.obj	77c3a7137c26dc0
+5	472	7217554501655137	CMakeFiles/SingletonPatternAufgabeCPP.dir/main.cpp.obj	77c3a7137c26dc0
+5	506	7217555479100103	CMakeFiles/SingletonPatternAufgabeCPP.dir/StandartInterestRate.cpp.obj	f2c03bdcd6aecab7
+507	684	7217555480841719	SingletonPatternAufgabeCPP.exe	d0a7caa5a708484f
+4	498	7217555656474964	CMakeFiles/SingletonPatternAufgabeCPP.dir/main.cpp.obj	77c3a7137c26dc0
+498	679	7217555658243522	SingletonPatternAufgabeCPP.exe	d0a7caa5a708484f
